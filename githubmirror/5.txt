@@ -1,4 +1,3 @@
 vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=none&encryption=none&headerType=none&type=tcp#🌐سرور 2 | Esf-12| MTSRVRS
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🌐سرور 15 | Esf-12| MTSRVRS
 vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@de2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🌐سرور 26 | Esf-12| MTSRVRS
 nm-vless://zqxv6HyzrU2qGR11qQpbw/8874RAx924vLnReKXYuF2/ownOHiB9IWoF/fFyHgQz/olSmLiu4b9wtnr8IxEsvM7HXo1sQeYMHIIctlcxc8A1G8JJ3oeAI7SuxIWTCoyBsYwpN2dycSQ9h/MwuQ9XWcjor1yLG5B1FLQWTg7OMoaATvXZV2K59Ihf0CKxK/RyFiGFLo4LCkOPhY3CMP7YHmGGJs9Lz+5q2SUWQzXbk4Y=#🌐سرور 31 | Esf-12| MTSRVRS
