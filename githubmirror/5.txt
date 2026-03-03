@@ -27,7 +27,6 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&typ
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🌐سرور 55 | Esf-12| MTSRVRS
 vmess://eyJhZGQiOiJoNC5hbHdheXMtdXBkYXRlLmNvbSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwiaG9zdCI6Im11c2ljLmFwcGxlLmNvbSIsImlkIjoiNWI4NWFlNTAtMTI2Ny01YTFhLTk4ZjUtOGQzMGRmNDgwYzIzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjkwMDQiLCJwcyI6IkBmaWxlbWJhZCIsInRscyI6IiIsInNuaSI6Im11c2ljLmFwcGxlLmNvbSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==#🌐سرور 62 | Esf-12| MTSRVRS
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80#🌐سرور 64 | Esf-12| MTSRVRS
-ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80#🌐سرور 65 | Esf-12| MTSRVRS
 vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NjUzIiwicHMiOiLwn5KOIEBWcG5Ob2JvZHkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌐سرور 67 | Esf-12| MTSRVRS
 vless://ffecd7fe-a020-4a99-a0d2-766dd341ed42@185.143.232.200:2087?path=%2Fsalsaserver&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=arvan.omidrahnama.ir&fp=chrome&type=ws&sni=arvan.omidrahnama.ir#🌐سرور 68 | Esf-12| MTSRVRS
 vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=&encryption=none&headerType=&type=tcp#🌐سرور 71 | Esf-12| MTSRVRS
