@@ -9,7 +9,6 @@ vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@31.57.28.209:8443?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#0004 - Unknown @CID_VPN
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@89.124.71.66:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&packetEncoding=xudp#0005 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#0006 - Unknown @CID_VPN
-vless://42a7df85-0739-4760-a248-32a491abfa2a@fin01-vlr01.tcp-reset-club.net:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&packetEncoding=xudp#0008 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#0009 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozS3haTE5KMmhnVWVqbXpIVjh5Z0hsd29M@basic-ru-0.undef.network:43510#0010 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#0011 - Unknown @CID_VPN
@@ -57,7 +56,6 @@ trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#00
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#0059 - Unknown @CID_VPN
 vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#0060 - Unknown @CID_VPN
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#0061 - Unknown @CID_VPN
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.11:2053?encryption=none&security=tls&sni=ir1.airpanel.top&type=ws&host=ir1.airpanel.top&packetEncoding=xudp#0062 - Unknown @CID_VPN
 vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@46.235.189.157:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#0064 - Unknown @CID_VPN
 vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#0065 - Unknown @CID_VPN
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip3.kaixincloud.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&type=ws&host=ir1.airpanel.top&packetEncoding=xudp#0066 - Unknown @CID_VPN
@@ -80,6 +78,7 @@ vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@46.235.186.203:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@107.181.147.235:40521#0109 - Unknown @CID_VPN
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@185.254.98.164:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cdn.stun.su&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2&packetEncoding=xudp#0110 - Unknown @CID_VPN
 vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@46.235.186.203:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#0111 - Unknown @CID_VPN
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?encryption=none&type=grpc&packetEncoding=xudp#0114 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#0117 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#0118 - Unknown @CID_VPN
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#0127 - Unknown @CID_VPN
@@ -144,4 +143,5 @@ ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#0196 - Unknown 
 ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#0197 - Unknown @CID_VPN
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag==@154.53.57.143:80#0198 - Unknown @CID_VPN
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#0200 - Unknown @CID_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@107.181.147.235:40521#0201 - Unknown @CID_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaOTRGb00xeHBXM0NKeml4TUU4Q2pKRUZCaUNGaEtTV2ZMelQ2RTkyUGpoN3k3M1lmTnJ3UGp1NDZHZDRIRTg1ZVhTak5pVHRpQVljNldUc2t1aHhaWkZlYmQ0cmNYZnA=@107.181.147.235:40521#0202 - Unknown @CID_VPN
