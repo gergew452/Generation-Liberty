@@ -1,8 +1,8 @@
 vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Generation-Liberty
 vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Generation-Liberty
-vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#Generation-Liberty
 vless://c6be0a05-6105-4c0a-8af5-3e227f10735f@cid.wlrus.lol:37016?security=reality&encryption=none&pbk=YlwO0m3fxSkKzi0RqOadx0fDPUyDTmUEmHP97bvV7QQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=6d37bd51#Generation-Liberty
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880/?type=grpc&encryption=none&flow=#Generation-Liberty
+vless://turboo-server@172.66.44.211:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#Generation-Liberty
+vless://turboo-server@172.66.44.211:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#Generation-Liberty
 "noGRPCHeader" : false,#Generation-Liberty
 "xmux" : {#Generation-Liberty
 "hKeepAlivePeriod" : 0,#Generation-Liberty
@@ -17,4 +17,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880/?type=grpc&encry
 "scMinPostsIntervalMs" : 30,#Generation-Liberty
 "xPaddingBytes" : "100-1000"#Generation-Liberty
 }#Generation-Liberty
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@193.46.81.207:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#Generation-Liberty
