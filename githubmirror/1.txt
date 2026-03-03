@@ -5,6 +5,7 @@
 #Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8080#Generation-Liberty
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@31.57.28.209:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&packetEncoding=xudp#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#Generation-Liberty
@@ -16,7 +17,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#Generation-Liberty
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&type=ws&path=/vless/&packetEncoding=xudp#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#Generation-Liberty
@@ -62,7 +62,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:80
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?encryption=none&security=tls&sni=pqh29v7.carwashipdir.shop&alpn=h2&type=grpc&packetEncoding=xudp#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#Generation-Liberty
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80#Generation-Liberty
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?encryption=none&type=grpc&packetEncoding=xudp#Generation-Liberty
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cdn.stun.su&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2&packetEncoding=xudp#Generation-Liberty
 vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@46.235.186.203:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@107.181.147.235:40521#Generation-Liberty
@@ -71,7 +70,6 @@ vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@46.235.186.203:443?encryption=none&
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?encryption=none&type=grpc&packetEncoding=xudp#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Generation-Liberty
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#Generation-Liberty
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#Generation-Liberty
 ss://YWVzLTI1Ni1nY206U003V1l0QXd2Qk9SWEtqSQ==@154.53.63.42:80#Generation-Liberty
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:80#Generation-Liberty
@@ -84,7 +82,6 @@ ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:80#Generation-Liberty
 ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:80#Generation-Liberty
 vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?encryption=none&security=reality&sni=a.primarymaster.online&fp=chrome&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sid=c5b7244c0fef441a&type=grpc&packetEncoding=xudp#Generation-Liberty
 vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.186.203:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#Generation-Liberty
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#Generation-Liberty
 vless://7c2012e4-1555-11f1-8cad-c3845d39d2de@us1.maxservice.life:443?encryption=none&security=reality&sni=us1.maxservice.life&fp=chrome&pbk=oZ35ZYOLZJfAsLOHuPbGpEH66RDMZBTksY0tZOLkNUM&sid=e5f6a7b8c9d0e1f2&type=xhttp&mode=auto&packetEncoding=xudp#Generation-Liberty
 ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw==@62.146.171.57:80#Generation-Liberty
 ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:80#Generation-Liberty
@@ -131,6 +128,5 @@ ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:80#Generation-Liber
 ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#Generation-Liberty
 ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#Generation-Liberty
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag==@154.53.57.143:80#Generation-Liberty
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@107.181.147.235:40521#Generation-Liberty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaOTRGb00xeHBXM0NKeml4TUU4Q2pKRUZCaUNGaEtTV2ZMelQ2RTkyUGpoN3k3M1lmTnJ3UGp1NDZHZDRIRTg1ZVhTak5pVHRpQVljNldUc2t1aHhaWkZlYmQ0cmNYZnA=@107.181.147.235:40521#Generation-Liberty
