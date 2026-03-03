@@ -1,8 +1,7 @@
 vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Generation-Liberty
 vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Generation-Liberty
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#Generation-Liberty
 vless://c6be0a05-6105-4c0a-8af5-3e227f10735f@cid.wlrus.lol:37016?security=reality&encryption=none&pbk=YlwO0m3fxSkKzi0RqOadx0fDPUyDTmUEmHP97bvV7QQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=6d37bd51#Generation-Liberty
-vless://turboo-server@172.66.44.211:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#Generation-Liberty
-vless://turboo-server@172.66.44.211:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#Generation-Liberty
 "noGRPCHeader" : false,#Generation-Liberty
 "xmux" : {#Generation-Liberty
 "hKeepAlivePeriod" : 0,#Generation-Liberty
