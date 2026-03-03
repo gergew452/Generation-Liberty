@@ -1,25 +1,2 @@
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@193.46.81.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cdn.stun.su&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2&packetEncoding=xudp#0089 - Unknown @CID_VPN
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#0034 - Unknown @CID_VPN
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@185.254.98.164:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cdn.stun.su&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2&packetEncoding=xudp#0110 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#0054 - Unknown @CID_VPN
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@193.46.81.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cdn.stun.su&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2&packetEncoding=xudp#0133 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080#0027 - Unknown @CID_VPN
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.cdn.stun.su&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2&packetEncoding=xudp#0102 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#0024 - Unknown @CID_VPN
-ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#0038 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#0020 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8080#0002 - Unknown @CID_VPN
-ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA==@149.102.132.180:80#0048 - Unknown @CID_VPN
-ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY=@51.159.103.137:18290#0047 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#0033 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#0018 - Unknown @CID_VPN
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.11:2053?encryption=none&security=tls&sni=ir1.airpanel.top&type=ws&host=ir1.airpanel.top&packetEncoding=xudp#0062 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#0011 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#0042 - Unknown @CID_VPN
-ss://YWVzLTI1Ni1nY206UkxVb2FVNG5oOGI4TXFxNw==@149.102.152.25:80#0031 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#0019 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#0025 - Unknown @CID_VPN
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&type=ws&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&packetEncoding=xudp#0052 - Unknown @CID_VPN
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:80#0057 - Unknown @CID_VPN
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#0044 - Unknown @CID_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#0078 - Unknown @CID_VPN
+vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?encryption=none&security=reality&sni=a.primarymaster.online&fp=chrome&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sid=c5b7244c0fef441a&type=grpc&packetEncoding=xudp#Generation-Liberty
+vless://a0d3d9d3-d0aa-07d0-b802-da6a5f8d918d@46.235.186.203:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&type=ws&host=lk-cdn.deploy-assure.ru&path=//&packetEncoding=xudp#Generation-Liberty
