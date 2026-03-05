@@ -6,7 +6,7 @@
 
 | Файл | Ссылка | Серверов | Обновлено | Дата |
 |--|--|--|--|--|
-| `best.txt` | [`best.txt`](https://github.com/gergew452/Generation-Liberty/raw/refs/heads/main/githubmirror/best.txt) | 181 | 07:38 | 05.03.2026 |
+| `best.txt` | [`best.txt`](https://github.com/gergew452/Generation-Liberty/raw/refs/heads/main/githubmirror/best.txt) | 182 | 11:45 | 05.03.2026 |
 
 > Все конфиги проверены через xray — реальная загрузка данных через прокси.
 
