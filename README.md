@@ -6,14 +6,6 @@
 
 | Файл | Ссылка | Серверов | Обновлено | Дата |
 |--|--|--|--|--|
-| `best.txt` | [`best.txt`](https://github.com/gergew452/Generation-Liberty/raw/refs/heads/main/githubmirror/best.txt) | 174 | 22:37 | 09.03.2026 |
+| `best.txt` | [`best.txt`](https://github.com/gergew452/Generation-Liberty/raw/refs/heads/main/githubmirror/best.txt) | 0 | 20:02 | 09.03.2026 (UTC) |
 
-> Все конфиги проверены через xray — реальная загрузка данных через прокси.
-
-## 📊 Статистика репозитория
-| Показатель | Значение |
-|--|--|
-| Просмотры (14Д) | 147 |
-| Клоны (14Д) | 1,231 |
-| Уникальные клоны (14Д) | 576 |
-| Уникальные посетители (14Д) | 8 |
+> Все конфиги проверены через TCP-тест и xray (если доступен).
